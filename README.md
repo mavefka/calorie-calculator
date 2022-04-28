@@ -1,2 +1,2 @@
 # calorie-calculator
-a simple calories calculator for tubitak 2022 projects.
+a simple calories calculator for 2022 tubitak fest.
