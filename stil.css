@@ -4,12 +4,12 @@ body {
   background: -webkit-linear-gradient(
     to right,
     #ff5e00,
-    #ff7b00
+    #ffae00
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
     #ff5e00,
-    #ff7b00
+    #ffae00
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 table {
@@ -21,7 +21,7 @@ table {
   box-shadow: 0px 0px 20px rgb(44, 44, 44);
 }
 thead {
-  background-color: rgb(255, 145, 0);
+  background-color: rgb(255, 166, 0);
   line-height: 50px;
   text-align: left;
   color: white;
